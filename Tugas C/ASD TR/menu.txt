@@ -1,0 +1,6 @@
+
+Daftar Menu 
+Menu					Harga
+1.ayam				Rp.150000
+2.bebek				Rp.130000
+3.soto				Rp.100000

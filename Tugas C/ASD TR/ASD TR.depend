@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619398432 source:d:\tugas\asd tr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
