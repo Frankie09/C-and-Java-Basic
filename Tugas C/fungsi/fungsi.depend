@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580794599 source:e:\f\fungsi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1580794600 source:d:\frankie\fungsi\main.c
+	<stdio.h>
+	<stdlib.h>
+

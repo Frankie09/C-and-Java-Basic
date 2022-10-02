@@ -1,0 +1,5 @@
+file operation untuk simpan
+String operation
+
+
+File yang disimpan trus di vektor 
